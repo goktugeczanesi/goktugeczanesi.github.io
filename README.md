@@ -1,3 +1,3 @@
-# Göktuğ Eczanesi
+# Günün Sağlık Bilgisi
 
-Günün Sağlık Bilgisi arşivine yönlendiren kısa adres ve WhatsApp önizleme kartı.
+Arşive yönlendiren kısa adres ve WhatsApp önizleme kartı.
